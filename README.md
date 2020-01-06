@@ -1,4 +1,4 @@
 # PaperPlus
 Prior research has identified that technology can enhance physical paper as an information carrying medium. We call this form of innovation \emph{augmented paper}. Though many works have been published on this topic, a comprehensive understanding of how the capabilities of paper can be extended with technology is currently lacking. Therefore, we present a systematic review of the use of paper and paper products in HCI research with the objective of mapping out the design space of technologically-augmented paper. We propose PaperPlus, a framework with eight dimensions to describe the ways that paper can be augmented. We also identify the inherent attributes of paper that make it an ideal medium for carrying information, the existing application domains of augmented paper, and the past technological approaches used to enhance paper products. 
 
-Here, we present the list of 174 works we analyzed for our research and our analysis following the reflexive thematic analysis procedure. 
+Here, we present the list of 174 works we analyzed for our research following the reflexive thematic analysis procedure. 
